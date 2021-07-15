@@ -5,11 +5,11 @@
 #
 
 # no trailing slash
-url: https://point-theme.netlify.app
+url: http://aiturrios.org
 
 # for header and meta tags
-title: Point Theme 🎯
-description: description for search engines and social media cards
+title: Aldo Iturrios
+description: Masters Student, Department of Statistics, University of Michigan
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
@@ -27,7 +27,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/me.jpg
 # 100-200 characters recommended
-greeting_text: Hey, I'm Point Theme! I'm a Jekyll theme for personal websites that are short & to the point. Fork it on Github, customize the styles and options, and enjoy!
+greeting_text: Hi, I'm Aldo Iturrios! I'm currently a Masters student in Applied Statistics at the University of Michigan (UM) and a Graduate Student Instructor for UM's Introductory Statistics course (STATS 250). Previously, I was a data analyst at Mathematica for 2 years and have also worked at the Pew Research Center and Pandora. Feel free to reach out at aiturrios12@gmail.com.
 
 # show blog post excerpts on blog page
 show_excerpts: false
